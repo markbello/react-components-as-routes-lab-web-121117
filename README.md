@@ -66,7 +66,7 @@ This component should render the text `Home Page`.
 
 #### `Movies`
 
-This component should render the text `Movies Page`, and make a new `<div>` for each movie. The `<div>` should contain the movie's title, time and an `<ul>` for each genre.
+This component should render the text `Movies Page`, and make a new `<div>` for each movie. The `<div>` should contain the movie's title, time and a `<ul>` for each genre.
 
 #### `Directors`
 
